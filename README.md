@@ -5,7 +5,7 @@ This workspace is a minimal starting point for learning finite-difference time-d
 ## 1. Create a virtual environment
 
 ```bash
-cd /home/biji/meep_projects
+cd /home
 python3 -m venv .venv
 source .venv/bin/activate
 ```
